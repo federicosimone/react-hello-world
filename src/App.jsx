@@ -9,8 +9,8 @@ function App() {
   return (
     <>
       <div>
-        <h1>Vite + React = Hello World!</h1>
-        <p>Dove vado a scrivere l'html? Non era meglio tutto in un posto?</p>
+        <h1 class="red-text">Vite + React = Hello World!</h1>
+        <p>"La felicità si può trovare anche negli attimi più tenebrosi, se solo uno si ricorda di accendere la luce."</p>
       </div>
     </>
   )
